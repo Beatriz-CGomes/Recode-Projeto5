@@ -1,0 +1,5 @@
+package com.projetotrip.api.resources;
+
+public class ReservarResource {
+
+}

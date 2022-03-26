@@ -1,0 +1,14 @@
+package com.projetotrip.api.servicies;
+
+
+
+import org.springframework.stereotype.Service;
+
+import com.projetotrip.api.repositories.ConsultarRepository;
+
+public class ConsultarService {
+
+	@Service
+	private ConsultarRepository repository;
+
+}
